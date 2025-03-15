@@ -5,12 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dk.util</groupId>
-    <artifactId>BufferedReaderFileWithComments</artifactId>
-    <version>1.0.0</version>
+    <artifactId>buffered-readerfile-with-comments</artifactId>
+    <version>2.0.0</version>
 
     <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
+        <maven.compiler.release>8</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
